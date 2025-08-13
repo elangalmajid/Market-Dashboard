@@ -29,7 +29,7 @@ tickers = {
     "Minyak Mentah WTI (Crude Oil Futures)": "CL=F",
     "Platinum": "PL=F",
     "Gas Alam": "NG=F",
-    "Tembaga": "HG=F"d
+    "Tembaga": "HG=F"
 }
 
 # Warna default untuk setiap instrumen
